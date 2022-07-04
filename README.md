@@ -1,8 +1,8 @@
-![Font-End Devoloper || Graphic Designer](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWm2O6wjbv407ThQhMO1LFBHJDaRt5Jy7JMFN6_DN74_qgJ-UbtQWVidbXwWGWRi03IqpTI4nt12m5Gc_zcayUsHxDcgQu_0wiKhnQjr5Hc4bjK1ssy8Az-UEH5yj1mfXGHmwa16tY055hz64F9e-SDxIneTeRgbNs8kP__w4iq-4Ue8zQBZmem_jNXA/w640-h360/Animation-of-atik-profile.gif)
+
+![Font-End Devoloper || Graphic Designer](https://scontent.frjh4-1.fna.fbcdn.net/v/t39.30808-6/291231207_1190229148444183_1728838327712580093_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeFg9mwEb396qc0uYwhORyx5FoJzok2heGkWgnOiTaF4aSc2zimHDdni2zOmyEuJRI_qnFFrnKFg5KFjnTA4gcWg&_nc_ohc=znFgW-qw-KYAX8qr-cW&_nc_ht=scontent.frjh4-1.fna&oh=00_AT9EsNYwGKyFHZabxahHa1TmQyJdIwcEDDEH5PmRu4wdUw&oe=62C783EB)
 
 # Hi there 👋, I'm Sayed Atiqur Rahman
-### Font-End Devoloper || Graphic Designer
-
+#### Font-End Devoloper || Graphic Designer
 
 Hi there, This is Sayed Atiqur Rahman.I am a professional Font-End Devoloper || Graphic designer  . I am working here for over 3 year, and that's also my Experience Period . I will do your job according to your choice. "My Focus Always is to Make Client Happy with the Qualityful work" You will find me as your own business pertner. Thanks For Visiting [ My Profile & me ]
 
