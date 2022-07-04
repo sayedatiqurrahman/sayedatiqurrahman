@@ -14,7 +14,7 @@ Skills:  HTML / CSS / JS  / Wordpress / C++ / Git / Photoshop / Illustrator / Pr
 - ⚡ Fun fact: I am a Codder 
 
 
-`
+![Animation-of-FACEBOOK-atik-profile](https://user-images.githubusercontent.com/82232344/177191496-8b75b4e4-ebd1-424b-9c56-6ba3d0fa63d1.gif)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sayedatiqurrahman)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/sayed-atiqur-rahman-939226210//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/sayedmd.atiqurrahman)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/sayedmdatiqurrahman//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/SayedAtiqurRah3)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://sayedatiqurrahman.github.io/Animation-Website-o1/)  
 
