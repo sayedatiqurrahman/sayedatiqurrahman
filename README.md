@@ -37,4 +37,4 @@ Skills:  HTML / CSS / JS  / Wordpress / C++ / Git / Photoshop / Illustrator / Pr
 ![Profile views](https://gpvc.arturio.dev/sayedatiqurrahman)  
 
 
-![image](https://user-images.githubusercontent.com/82232344/177192598-1edc409e-a90f-4e99-aceb-08e0b138286d.png)
+[![image](https://user-images.githubusercontent.com/82232344/177192598-1edc409e-a90f-4e99-aceb-08e0b138286d.png)](https://github.com/sayedatiqurrahman/web-form/blob/main/Animation-of-atik-profile.gif?raw=true)
