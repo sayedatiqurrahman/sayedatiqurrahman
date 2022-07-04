@@ -13,7 +13,6 @@ Skills:  HTML / CSS / JS  / Wordpress / C++ / Git / Photoshop / Illustrator / Pr
 - 📫 How to reach me: No Way..... 
 - ⚡ Fun fact: I am a Codder 
 
-![Animation-of-FACEBOOK-atik-profile](https://user-images.githubusercontent.com/82232344/177192327-2fcbe356-465e-486c-9467-f1ec819bbb87.gif)
 
 
 
@@ -36,3 +35,6 @@ Skills:  HTML / CSS / JS  / Wordpress / C++ / Git / Photoshop / Illustrator / Pr
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=sayedatiqurrahman)  
 
 ![Profile views](https://gpvc.arturio.dev/sayedatiqurrahman)  
+
+
+![image](https://user-images.githubusercontent.com/82232344/177192598-1edc409e-a90f-4e99-aceb-08e0b138286d.png)
