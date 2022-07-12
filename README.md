@@ -1,4 +1,5 @@
-![Font-End Devoloper || Graphic Designer](https://scontent.frjh4-1.fna.fbcdn.net/v/t39.30808-6/291231207_1190229148444183_1728838327712580093_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeFg9mwEb396qc0uYwhORyx5FoJzok2heGkWgnOiTaF4aSc2zimHDdni2zOmyEuJRI_qnFFrnKFg5KFjnTA4gcWg&_nc_ohc=znFgW-qw-KYAX8qr-cW&_nc_ht=scontent.frjh4-1.fna&oh=00_AT9EsNYwGKyFHZabxahHa1TmQyJdIwcEDDEH5PmRu4wdUw&oe=62C783EB)
+![291231207_1190229148444183_1728838327712580093_n](https://user-images.githubusercontent.com/82232344/178516886-4a838df7-26c1-485e-9ffa-e602bee51512.jpg)
+
 # Hi there 👋, I'm Sayed Atiqur Rahman
 ### Font-End Devoloper || Graphic Designer
 
