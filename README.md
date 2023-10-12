@@ -41,7 +41,9 @@ Skills:  HTML / CSS / JavaScript / Es6  / React.js / Express.js / MongoDB / Node
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sayedatiqurrahman)
 ![GitHub metrics](https://metrics.lecoq.io/sayedatiqurrahman)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=sayedatiqurrahman)  
+<p align="center">
+         ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=sayedatiqurrahman)  
+</p>
 
 ![Profile views](https://gpvc.arturio.dev/sayedatiqurrahman)  
 
