@@ -1,17 +1,19 @@
 ![291231207_1190229148444183_1728838327712580093_n](https://user-images.githubusercontent.com/82232344/178516886-4a838df7-26c1-485e-9ffa-e602bee51512.jpg)
 
 # Hi there 👋, I'm Sayed Atiqur Rahman
-### Font-End Devoloper || Graphic Designer
+### MERN Stack Developer || Graphic Designer
 
 
-Hi there, This is Sayed Atiqur Rahman.I am a professional Font-End Devoloper || Graphic designer  . I am working here for over 3 year, and that's also my Experience Period . I will do your job according to your choice. "My Focus Always is to Make Client Happy with the Qualityful work" You will find me as your own business pertner. Thanks For Visiting [ My Profile & me ]
+Hi there, This is Sayed Atiqur Rahman. I am a  JUNIOR WEB DEVElOPER || Graphic designer. Passionate fresher in web development seeking MERN stack experience. Dedicated to learning, collabo-
+rating, and delivering visually appealing web applications. Committed to professional growth and exceeding client expectations.
+Thanks For Visiting [ My Profile & me ]
 
-Skills:  HTML / CSS / JS  / Wordpress / C++ / Git / Photoshop / Illustrator / Premir Pro
+Skills:  HTML / CSS / JavaScript / Es6  / React.js / Express.js / MongoDB / Node.js / Rest API / Redux.js / Redux Toolkit / Firebase / SSL-COMMERZ / Stripe.js /  Axios  / C++ (basic) / Git / Figma / Adobe XD / Photoshop / Illustrator /
 
 - 🔭 I’m currently working on Student 
-- 🌱 I’m currently learning JavaScript 
+- 🌱 I’m currently learning TypeScript 
 - 👯 I’m looking to collaborate on GitHub 
-- 📫 How to reach me: No Way..... 
+- 📫 How to reach me: s.atiqurrahman2003@gmail.com 
 - ⚡ Fun fact: I am a Codder 
 
 
