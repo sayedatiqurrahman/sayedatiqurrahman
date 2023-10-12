@@ -26,20 +26,19 @@ Skills:  HTML / CSS / JavaScript / Es6  / React.js / Express.js / MongoDB / Node
 
 
 
->[![trophy](https://github-profile-trophy.vercel.app/?username=sayedatiqurrahman)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=sayedatiqurrahman)](https://github.com/ryo-ma/github-profile-trophy)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sayedatiqurrahman)](https://github.com/anuraghazra/github-readme-stats)
 
->[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sayedatiqurrahman)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sayedatiqurrahman&show_icons=true&count_private=true)  
 
-> ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sayedatiqurrahman&show_icons=true&count_private=true)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sayedatiqurrahman)  
 
-> ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sayedatiqurrahman)  
+![GitHub metrics](https://metrics.lecoq.io/sayedatiqurrahman)  
 
-> ![GitHub metrics](https://metrics.lecoq.io/sayedatiqurrahman)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=sayedatiqurrahman)  
 
-> ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=sayedatiqurrahman)  
-
-> ![Profile views](https://gpvc.arturio.dev/sayedatiqurrahman)  
+![Profile views](https://gpvc.arturio.dev/sayedatiqurrahman)  
 
 
-> ![Animation-of-FACEBOOK-atik-profile](https://user-images.githubusercontent.com/82232344/177192901-0a22df3e-3c87-41ea-bbfb-51dbe56d44d9.gif)
+![Animation-of-FACEBOOK-atik-profile](https://user-images.githubusercontent.com/82232344/177192901-0a22df3e-3c87-41ea-bbfb-51dbe56d44d9.gif)
 
