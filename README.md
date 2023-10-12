@@ -38,7 +38,9 @@ Skills:  HTML / CSS / JavaScript / Es6  / React.js / Express.js / MongoDB / Node
 <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sayedatiqurrahman)](https://github.com/anuraghazra/github-readme-stats) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sayedatiqurrahman&show_icons=true&count_private=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sayedatiqurrahman)
-![GitHub metrics](https://metrics.lecoq.io/sayedatiqurrahman) 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=sayedatiqurrahman)  
-![Profile views](https://gpvc.arturio.dev/sayedatiqurrahman)  
+
+<img src="https://activity-graph.herokuapp.com/graph?username=sayedatiqurrahman" />
+<img src="https://metrics.lecoq.io/sayedatiqurrahman" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sayedatiqurrahman" />
+<img src="https://gpvc.arturio.dev/sayedatiqurrahman" />
+
