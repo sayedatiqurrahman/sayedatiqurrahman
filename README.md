@@ -1,7 +1,7 @@
 ![291231207_1190229148444183_1728838327712580093_n](https://user-images.githubusercontent.com/82232344/178516886-4a838df7-26c1-485e-9ffa-e602bee51512.jpg)
 
-#<div align="center"> Hi there 👋, I'm Sayed Atiqur Rahman/div>
-###<div align="center">MERN Stack Developer || Graphic Designer</div>
+#<div align="center"> **Hi there 👋, I'm Sayed Atiqur Rahman**</div>
+###<div align="center">*MERN Stack Developer || Graphic Designer*</div>
 
 Hi there, This is Sayed Atiqur Rahman. I am a  JUNIOR WEB DEVElOPER || Graphic designer. Passionate fresher in web development seeking MERN stack experience. Dedicated to learning, collabo-
 rating, and delivering visually appealing web applications. Committed to professional growth and exceeding client expectations.
