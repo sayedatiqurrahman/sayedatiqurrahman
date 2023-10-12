@@ -17,9 +17,13 @@ Skills:  HTML / CSS / JavaScript / Es6  / React.js / Express.js / MongoDB / Node
 - ⚡ Fun fact: I am a Codder 
 
 
-<div align="center">
-[<img src='https://i.ibb.co/vjrYSvM/github.png' alt='github' height='40'>](https://github.com/sayedatiqurrahman)  [<img src='https://i.ibb.co/4srYCbc/linkedin.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/satiqurrahman/)  [<img src='https://i.ibb.co/wCs6JC2/facebook.png' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/sayedmd.atiqurrahman)  [<img src='https://i.ibb.co/wcf40Wk/instagram.png' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/sayedmdatiqurrahman/)  [<img src='https://i.ibb.co/QjpYW90/twitter.png' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/SayedAtiqurRah3)  [<img src='https://i.ibb.co/1TRkXXj/coding.png' alt='website' height='40'>](https://sayedatiqurrahman.github.io/Animation-Website-o1/)  
-</div>
+
+[<img src='https://i.ibb.co/vjrYSvM/github.png' alt='github' height='40'>](https://github.com/sayedatiqurrahman) 
+[<img src='https://i.ibb.co/4srYCbc/linkedin.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/satiqurrahman/)  
+[<img src='https://i.ibb.co/wCs6JC2/facebook.png' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/sayedmd.atiqurrahman) 
+[<img src='https://i.ibb.co/wcf40Wk/instagram.png' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/sayedmdatiqurrahman/) 
+[<img src='https://i.ibb.co/QjpYW90/twitter.png' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/SayedAtiqurRah3)  
+[<img src='https://i.ibb.co/1TRkXXj/coding.png' alt='website' height='40'>](https://sayedatiqurrahman.github.io/Animation-Website-o1/)  
 
 <div align="center"><a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> </div>
 
