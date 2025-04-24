@@ -1,4 +1,4 @@
-![291231207_1190229148444183_1728838327712580093_n](https://user-images.githubusercontent.com/82232344/178516886-4a838df7-26c1-485e-9ffa-e602bee51512.jpg)
+![481217960_1804811750319250_5834873016667839892_n](https://github.com/user-attachments/assets/5ab47183-cfe6-4c42-8b6c-925f69afc4c3)
 
 # <div align="center"> **Hi there 👋, I'm Sayed Atiqur Rahman**</div>
 ### <div align="center">**MERN Stack Developer || Graphic Designer**</div>
