@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/63aec3b8-569c-4a0e-9668-8279e3d03170)
+
+
 <!-- Profile Hero Section -->
 <div align="center" style="background: rgba(123, 31, 162, 0.15); backdrop-filter: blur(8px); padding: 2rem; border-radius: 20px; border: 1px solid rgba(255,255,255,0.2); margin: 2rem auto; max-width: 800px;">
   <h1>Hi there 👋, I'm <span style="color:#7B1FA2;">Sayed Atiqur Rahman</span></h1>
@@ -93,14 +96,7 @@
 
 ---
 
-<div align="center" style="background: rgba(25, 118, 210, 0.15); backdrop-filter: blur(10px); padding: 2rem; border-radius: 20px; border: 1px solid rgba(255,255,255,0.15); margin: 2rem auto 3rem; max-width: 800px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayedatiqurrahman&layout=compact&theme=dark" alt="GitHub Trophies" />
-</div>
 
-
-
-
---
 
 <div style="background: rgba(123, 31, 162, 0.08); backdrop-filter: blur(6px); padding: 1.5rem 2rem; border-radius: 15px; margin: 2rem auto 3rem; max-width: 800px; font-size: 16px;">
   <h3>🔍 Current Focus & Contributions</h3>
