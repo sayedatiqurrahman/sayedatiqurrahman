@@ -98,9 +98,14 @@
 
 ---
 
-### 🧠 Extras You Can Add:
-- 🧪 Now Learning: `Testing`, `DevOps`, `GraphQL`
-- 🧳 Open Source Contributions
-- 📦 NPM or GitHub Packages
-- 🚀 Featured Projects or Repos
-- 📝 Dev Blog with RSS feed
+<div align="center" style="background: rgba(123, 31, 162, 0.08); backdrop-filter: blur(6px); padding: 1.5rem; border-radius: 15px; margin: 2rem auto; max-width: 800px; font-size: 16px;">
+  <h3>🔍 Current Focus & Contributions</h3>
+  <ul style="list-style: none; padding: 0; line-height: 1.8;">
+    <li>🧪 <strong>Now Exploring:</strong> Scalable Testing Strategies, DevOps Workflows, and GraphQL Integration</li>
+    <li>🧳 <strong>Client Projects:</strong> Delivered secure, scalable apps for businesses and organizations like <a href="https://bconsbd.com" target="_blank">BConsBD</a></li>
+    <li>📦 <strong>Open Source:</strong> Actively contributing to internal tooling, utility libraries, and cloud storage solutions</li>
+    <li>🚀 <strong>Featured Work:</strong> Built production-ready apps using <strong>Remix, Prisma, PostgreSQL</strong>, and <strong>Telegram MTProto</strong></li>
+    <li>📝 <strong>Tech Blog:</strong> Documenting learnings and insights on performance, architecture, and code patterns (<em>RSS feed coming soon</em>)</li>
+  </ul>
+</div>
+
