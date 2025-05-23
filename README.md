@@ -2,7 +2,6 @@
 
 
 <!-- Profile Hero Section -->
-<!-- Profile Hero Section -->
 <div align="center" style="background: rgba(123, 31, 162, 0.15); backdrop-filter: blur(8px); padding: 2rem; border-radius: 20px; border: 1px solid rgba(255,255,255,0.2); margin: 2rem auto; max-width: 800px;">
   <h1>Hi there 👋, I'm <span style="color:#7B1FA2;">Sayed Atiqur Rahman</span></h1>
   <h3>MERN Stack Developer || Full Stack Engineer</h3>
@@ -15,14 +14,42 @@
 ---
 
 ### 🛠️ Tech Stack
-<p align="center" style="margin-bottom: 2rem;">
-  <!-- badges unchanged -->
+<p align="center" style="margin-bottom: 2rem; display: flex; flex-wrap: wrap; justify-content: center; gap: 0.7rem;">
   <a href="https://react.dev/" target="_blank">
-    <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61dafb" />
+    <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61dafb" alt="React" />
   </a>
-  <!-- other badges here... -->
+  <a href="https://www.typescriptlang.org/" target="_blank">
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  </a>
+  <a href="https://remix.run/" target="_blank">
+    <img src="https://img.shields.io/badge/Remix-19202D?style=for-the-badge&logo=remix&logoColor=white" alt="Remix" />
+  </a>
+  <a href="https://nodejs.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  </a>
+  <a href="https://www.prisma.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=blue" alt="Prisma" />
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank">
+    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  </a>
   <a href="https://www.python.org/doc/" target="_blank">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  </a>
+  <a href="https://www.javascript.com/" target="_blank">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  </a>
+  <a href="https://www.docker.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  </a>
+  <a href="https://graphql.org/" target="_blank">
+    <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" />
   </a>
 </p>
 
@@ -30,13 +57,25 @@
 
 ### 📊 GitHub Stats & Streak
 <div align="center" style="display: flex; gap: 1.5rem; flex-wrap: wrap; justify-content: center; margin: 1rem auto 2rem;">
-  <img src="https://github-readme-stats.vercel.app/api?username=sayedatiqurrahman&show_icons=true&theme=transparent" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sayedatiqurrahman&show_icons=true&theme=transparent&count_private=true" height="150" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sayedatiqurrahman&theme=transparent" height="150" alt="GitHub Streak" />
 </div>
 
 ### 🏆 GitHub Trophies
 <div align="center" style="background: rgba(25, 118, 210, 0.15); backdrop-filter: blur(10px); padding: 2rem; border-radius: 20px; border: 1px solid rgba(255,255,255,0.15); margin: 2rem auto 3rem; max-width: 800px;">
   <img src="https://github-profile-trophy.vercel.app/?username=sayedatiqurrahman&theme=blueberry&no-frame=true&margin-w=25&margin-h=25&row=2&column=4" alt="GitHub Trophies" />
+</div>
+
+---
+
+### 📈 GitHub Activity
+<div align="center" style="margin: 2rem auto; max-width: 800px;">
+  <img src="https://activity-graph.herokuapp.com/graph?username=sayedatiqurrahman&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" />
+</div>
+
+### 🥇 Top Languages Used
+<div align="center" style="margin: 2rem auto 3rem; max-width: 800px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayedatiqurrahman&layout=compact&theme=transparent" alt="Top Languages" />
 </div>
 
 ---
