@@ -1,4 +1,5 @@
-![Banner](https://private-user-images.githubusercontent.com/82232344/436890376-5ab47183-cfe6-4c42-8b6c-925f69afc4c3.jpg)
+![image](https://github.com/user-attachments/assets/1bd4b05f-a6a2-4182-944f-94546bfd6ec8)
+
 
 <div align="center">
   <div style="background: rgba(123, 31, 162, 0.15); backdrop-filter: blur(8px); padding: 2rem; border-radius: 20px; border: 1px solid rgba(255, 255, 255, 0.2); margin: 1rem 0;">
