@@ -1,87 +1,45 @@
-<div align="center">
-  <!-- Your original banner image preserved -->
-  ![Banner](https://github.com/sayedatiqurrahman/sayedatiqurrahman/blob/main/assets/header-purple-glass.png?raw=true)
+![481217960_1804811750319250_5834873016667839892_n](https://github.com/user-attachments/assets/5ab47183-cfe6-4c42-8b6c-925f69afc4c3)
 
-  <div style="background: rgba(123, 31, 162, 0.15); backdrop-filter: blur(10px); padding: 2rem; border-radius: 20px; border: 1px solid rgba(255, 255, 255, 0.2); box-shadow: 0 8px 32px rgba(123, 31, 162, 0.3); margin: 2rem 0;">
-    <h1 style="color: #fff; margin: 0;">Sayed Atiqur Rahman</h1>
-    <p style="color: #d8b4fe; font-size: 1.2rem; margin: 0.5rem 0 0;">MERN Stack Developer | TypeScript Expert</p>
-  </div>
-</div>
+# <div align="center"> **Hi there 👋, I'm Sayed Atiqur Rahman**</div>
+### <div align="center">**MERN Stack Developer || Graphic Designer**</div>
 
----
+Hi there, This is Sayed Atiqur Rahman. I am a  JUNIOR WEB DEVElOPER || Graphic designer. Passionate fresher in web development seeking MERN stack experience. Dedicated to learning, collabo-
+rating, and delivering visually appealing web applications. Committed to professional growth and exceeding client expectations.
+Thanks For Visiting [ My Profile & me ]
 
-### 🎨 Modern Tech Stack
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 0.8rem; margin: 2rem 0;">
-  <!-- Core Technologies -->
-  <div style="background: rgba(123, 31, 162, 0.1); backdrop-filter: blur(5px); padding: 0.8rem 1.2rem; border-radius: 12px; border: 1px solid rgba(255, 255, 255, 0.1); display: flex; align-items: center; gap: 0.5rem;">
-    <img src="https://skillicons.dev/icons?i=ts" width="24" alt="TypeScript"/>
-    <span>TypeScript</span>
-  </div>
-  <div style="background: rgba(123, 31, 162, 0.1); backdrop-filter: blur(5px); padding: 0.8rem 1.2rem; border-radius: 12px; border: 1px solid rgba(255, 255, 255, 0.1); display: flex; align-items: center; gap: 0.5rem;">
-    <img src="https://skillicons.dev/icons?i=nextjs" width="24" alt="Next.js"/>
-    <span>Next.js</span>
-  </div>
-  <div style="background: rgba(123, 31, 162, 0.1); backdrop-filter: blur(5px); padding: 0.8rem 1.2rem; border-radius: 12px; border: 1px solid rgba(255, 255, 255, 0.1); display: flex; align-items: center; gap: 0.5rem;">
-    <img src="https://skillicons.dev/icons?i=remix" width="24" alt="Remix"/>
-    <span>Remix.run</span>
-  </div>
-  
-  <!-- Additional Technologies -->
-  <div style="background: rgba(123, 31, 162, 0.1); backdrop-filter: blur(5px); padding: 0.8rem 1.2rem; border-radius: 12px; border: 1px solid rgba(255, 255, 255, 0.1); display: flex; align-items: center; gap: 0.5rem;">
-    <img src="https://skillicons.dev/icons?i=redux" width="24" alt="Redux"/>
-    <span>Redux</span>
-  </div>
-  <div style="background: rgba(123, 31, 162, 0.1); backdrop-filter: blur(5px); padding: 0.8rem 1.2rem; border-radius: 12px; border: 1px solid rgba(255, 255, 255, 0.1); display: flex; align-items: center; gap: 0.5rem;">
-    <img src="https://skillicons.dev/icons?i=mongodb" width="24" alt="MongoDB"/>
-    <span>MongoDB</span>
-  </div>
-  <div style="background: rgba(123, 31, 162, 0.1); backdrop-filter: blur(5px); padding: 0.8rem 1.2rem; border-radius: 12px; border: 1px solid rgba(255, 255, 255, 0.1); display: flex; align-items: center; gap: 0.5rem;">
-    <img src="https://skillicons.dev/icons?i=prisma" width="24" alt="Prisma"/>
-    <span>Prisma</span>
-  </div>
-  <div style="background: rgba(123, 31, 162, 0.1); backdrop-filter: blur(5px); padding: 0.8rem 1.2rem; border-radius: 12px; border: 1px solid rgba(255, 255, 255, 0.1); display: flex; align-items: center; gap: 0.5rem;">
-    <img src="https://skillicons.dev/icons?i=express" width="24" alt="Express"/>
-    <span>Express</span>
-  </div>
-</div>
+Skills:  HTML / CSS / JavaScript / Es6  / React.js / Express.js / MongoDB / Node.js / Rest API / Redux.js / Redux Toolkit / Firebase / SSL-COMMERZ 
+         / Stripe.js /  Axios  / C++ (basic) / Git / Figma / Adobe XD / Photoshop / Illustrator /
 
----
+- 🔭 I’m currently working on Student 
+- 🌱 I’m currently learning TypeScript 
+- 👯 I’m looking to collaborate on GitHub 
+- 📫 How to reach me: s.atiqurrahman2003@gmail.com 
+- ⚡ Fun fact: I am a Codder 
 
-### 🌟 Modern Social Links
-<div align="center" style="display: flex; justify-content: center; gap: 1.5rem; margin: 2rem 0;">
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/satiqurrahman/" style="text-decoration: none;">
-    <div style="background: rgba(123, 31, 162, 0.1); backdrop-filter: blur(5px); width: 60px; height: 60px; border-radius: 50%; display: flex; align-items: center; justify-content: center; border: 1px solid rgba(255, 255, 255, 0.1); transition: all 0.3s ease;">
-      <img src="https://skillicons.dev/icons?i=linkedin" width="32" alt="LinkedIn"/>
-    </div>
-  </a>
-  
-  <!-- GitHub -->
-  <a href="https://github.com/sayedatiqurrahman" style="text-decoration: none;">
-    <div style="background: rgba(123, 31, 162, 0.1); backdrop-filter: blur(5px); width: 60px; height: 60px; border-radius: 50%; display: flex; align-items: center; justify-content: center; border: 1px solid rgba(255, 255, 255, 0.1); transition: all 0.3s ease;">
-      <img src="https://skillicons.dev/icons?i=github" width="32" alt="GitHub"/>
-    </div>
-  </a>
-  
-  <!-- Medium -->
-  <a href="https://medium.com/@satiqurrahman" style="text-decoration: none;">
-    <div style="background: rgba(123, 31, 162, 0.1); backdrop-filter: blur(5px); width: 60px; height: 60px; border-radius: 50%; display: flex; align-items: center; justify-content: center; border: 1px solid rgba(255, 255, 255, 0.1); transition: all 0.3s ease;">
-      <img src="https://skillicons.dev/icons?i=medium" width="32" alt="Medium"/>
-    </div>
-  </a>
-  
-  <!-- Portfolio -->
-  <a href="https://atiqurrahman-portfolio.web.app/" style="text-decoration: none;">
-    <div style="background: rgba(123, 31, 162, 0.1); backdrop-filter: blur(5px); width: 60px; height: 60px; border-radius: 50%; display: flex; align-items: center; justify-content: center; border: 1px solid rgba(255, 255, 255, 0.1); transition: all 0.3s ease;">
-      <img src="https://skillicons.dev/icons?i=webpack" width="32" alt="Portfolio"/>
-    </div>
-  </a>
-</div>
 
-<style>
-  a:hover div {
-    background: rgba(123, 31, 162, 0.3) !important;
-    transform: translateY(-5px) scale(1.05);
-    box-shadow: 0 10px 20px rgba(123, 31, 162, 0.3);
-  }
-</style>
+<p align="center">
+  <a href="https://github.com/sayedatiqurrahman"><img src="https://i.ibb.co/vjrYSvM/github.png" alt="github" height="40"></a>
+  <a href="https://www.linkedin.com/in/satiqurrahman/"><img src="https://i.ibb.co/4srYCbc/linkedin.png" alt="linkedin" height="40"></a>
+  <a href="https://www.facebook.com/https://www.facebook.com/sayedmd.atiqurrahman"><img src="https://i.ibb.co/wCs6JC2/facebook.png" alt="facebook" height="40"></a>
+  <a href="https://www.instagram.com/https://www.instagram.com/sayedmdatiqurrahman"><img src="https://i.ibb.co/wcf40Wk/instagram.png" alt="instagram" height="40"></a>
+  <a href="https://twitter.com/https://twitter.com/SayedAtiqurRah3"><img src="https://i.ibb.co/QjpYW90/twitter.png" alt="twitter" height="40"></a>
+  <a href="https://atiqurrahman-portfolio.web.app/"><img src="https://i.ibb.co/1TRkXXj/coding.png" alt="website" height="40"></a>
+</p>
+
+
+
+
+
+<div align="center"><a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> </div>
+
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=sayedatiqurrahman)](https://github.com/ryo-ma/github-profile-trophy)
+<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sayedatiqurrahman)](https://github.com/anuraghazra/github-readme-stats) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sayedatiqurrahman&show_icons=true&count_private=true)  
+
+
+<img src="https://activity-graph.herokuapp.com/graph?username=sayedatiqurrahman" />
+<img src="https://metrics.lecoq.io/sayedatiqurrahman" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sayedatiqurrahman" />
+<img src="https://gpvc.arturio.dev/sayedatiqurrahman" />
