@@ -70,8 +70,8 @@
   <a href="https://atiqurrahman-portfolio.web.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-7B1FA2?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
-  <a href="[https://wa.me/8801625625032](https://api.whatsapp.com/send/?phone=8801625625032&text=Hello%20Sayed%20Atiqur%20Rahman%21%0A%0AHow%20are%20you%20doing%3F%20%0AJust%20wanted%20to%20check%20if%20you%E2%80%99re%20available%20and%20have%20seen%20my%20message.%20Please%20reply%20when%20you%20get%20a%20chance.&type=phone_number&app_absent=0
-)" target="_blank">
+  <a href="https://api.whatsapp.com/send/?phone=8801625625032&text=Hello%20Sayed%20Atiqur%20Rahman%21%0A%0AHow%20are%20you%20doing%3F%20%0AJust%20wanted%20to%20check%20if%20you%E2%80%99re%20available%20and%20have%20seen%20my%20message.%20Please%20reply%20when%20you%20get%20a%20chance.&type=phone_number&app_absent=0
+" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
   <a href="https://facebook.com/sayedatiqurrahman" target="_blank">
