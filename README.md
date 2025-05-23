@@ -67,6 +67,20 @@
   <img src="https://activity-graph.herokuapp.com/graph?username=sayedatiqurrahman&theme=react-dark&hide_border=true" alt="GitHub Contribution Graph" />
 </div>
 
+
+---
+
+<div align="center" style="display: flex; gap: 1.5rem; justify-content: center; flex-wrap: wrap; margin: 1rem auto;">
+  <!-- Most Used Languages Card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayedatiqurrahman&langs_count=8&layout=compact&theme=dark" alt="Most Used Languages" height="150" />
+  
+  <!-- Total Contributions Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=sayedatiqurrahman&show_icons=true&count_private=true&include_all_commits=true&theme=dark" alt="Total Contributions" height="150" />
+</div>
+
+
+---
+
 ---
 
 ### 🏆 GitHub Trophies
