@@ -81,6 +81,44 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sayedatiqurrahman&theme=dark" alt="GitHub Streak" height="150" />
 </div>
 
+<!-- GitHub Stats Cards Container -->
+<div align="center" style="
+  display: flex;
+  gap: 1.8rem;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin: 1rem auto 2rem;
+  max-width: 900px;
+  background: rgba(123, 31, 162, 0.12);
+  backdrop-filter: blur(12px);
+  border-radius: 20px;
+  padding: 1.5rem 2rem;
+  border: 1px solid rgba(255,255,255,0.15);
+">
+  <!-- Most Used Languages Card -->
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayedatiqurrahman&langs_count=8&layout=compact&theme=dark"
+    alt="Most Used Languages"
+    height="150"
+    style="border-radius: 12px; box-shadow: 0 8px 24px rgba(123,31,162,0.3);"
+  />
+  
+  <!-- Total Contributions Card -->
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=sayedatiqurrahman&show_icons=true&count_private=true&include_all_commits=true&theme=dark"
+    alt="Total Contributions"
+    height="150"
+    style="border-radius: 12px; box-shadow: 0 8px 24px rgba(123,31,162,0.3);"
+  />
+
+  <!-- GitHub Streak Stats -->
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=sayedatiqurrahman&theme=dark"
+    alt="GitHub Streak"
+    height="150"
+    style="border-radius: 12px; box-shadow: 0 8px 24px rgba(123,31,162,0.3);"
+  />
+</div>
 
 
 
