@@ -7,7 +7,7 @@
   <h3>MERN Stack Developer || Full Stack Engineer</h3>
 </div>
 
-<div align="center" style="background: rgba(123, 31, 162, 0.08); backdrop-filter: blur(6px); padding: 1.2rem; border-radius: 15px; margin: 1rem auto; max-width: 800px; font-size: 16px;">
+<div  style="background: rgba(123, 31, 162, 0.08); backdrop-filter: blur(6px); padding: 1.2rem; border-radius: 15px; margin: 1rem auto; max-width: 800px; font-size: 16px;">
   A results-driven full-stack developer with hands-on experience in modern web technologies including React, TypeScript, Remix, Node.js, Prisma, and PostgreSQL. Passionate about crafting scalable, secure, and elegant applications with clean architecture and a focus on user experience.
 </div>
 
@@ -98,7 +98,7 @@
 
 ---
 
-<div align="center" style="background: rgba(123, 31, 162, 0.08); backdrop-filter: blur(6px); padding: 1.5rem; border-radius: 15px; margin: 2rem auto; max-width: 800px; font-size: 16px;">
+<div  style="background: rgba(123, 31, 162, 0.08); backdrop-filter: blur(6px); padding: 1.5rem; border-radius: 15px; margin: 2rem auto; max-width: 800px; font-size: 16px;">
   <h3>🔍 Current Focus & Contributions</h3>
   <ul style="list-style: none; padding: 0; line-height: 1.8;">
     <li>🧪 <strong>Now Exploring:</strong> Scalable Testing Strategies, DevOps Workflows, and GraphQL Integration</li>
