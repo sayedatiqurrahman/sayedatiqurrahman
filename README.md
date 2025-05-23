@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/55f070fb-6f9f-432c-88e0-b31918f602df)
+
+
 <!-- Profile Hero Section -->
 <div align="center" style="background: rgba(123, 31, 162, 0.15); backdrop-filter: blur(8px); padding: 2rem; border-radius: 20px; border: 1px solid rgba(255,255,255,0.2); margin: 1rem 0;">
   <h1>Hi there 👋, I'm Sayed Atiqur Rahman</h1>
