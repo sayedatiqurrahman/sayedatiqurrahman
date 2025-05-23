@@ -76,10 +76,13 @@
   
   <!-- Total Contributions Card -->
   <img src="https://github-readme-stats.vercel.app/api?username=sayedatiqurrahman&show_icons=true&count_private=true&include_all_commits=true&theme=dark" alt="Total Contributions" height="150" />
+  
+  <!-- GitHub Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sayedatiqurrahman&theme=dark" alt="GitHub Streak" height="150" />
 </div>
 
 
----
+
 
 ---
 
