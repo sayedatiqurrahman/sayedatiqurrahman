@@ -13,54 +13,46 @@
 
 ---
 
-### 🛠️ Tech Stack (Glassy One-Liner)
-<div align="center" style="display: flex; flex-wrap: wrap; gap: 0.8rem; justify-content: center; font-size: 14px; font-weight: 500;">
+### 🛠️ Tech Stack
+<p align="center">
+  <a href="https://react.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61dafb" />
+  </a>
+  <a href="https://www.typescriptlang.org/docs/" target="_blank">
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  </a>
+  <a href="https://nextjs.org/docs" target="_blank">
+    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  </a>
+  <a href="https://remix.run/docs" target="_blank">
+    <img src="https://img.shields.io/badge/Remix.run-000000?style=for-the-badge&logo=remix&logoColor=white" />
+  </a>
+  <a href="https://nodejs.org/en/docs" target="_blank">
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  </a>
+  <a href="https://expressjs.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Express.js-404d59?style=for-the-badge&logo=express&logoColor=white" />
+  </a>
+  <a href="https://www.mongodb.com/docs/" target="_blank">
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  </a>
+  <a href="https://www.prisma.io/docs" target="_blank">
+    <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
+  </a>
+  <a href="https://mongoosejs.com/docs/" target="_blank">
+    <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" />
+  </a>
+  <a href="https://redux.js.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  </a>
+  <a href="https://www.python.org/doc/" target="_blank">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  </a>
+</p>
 
-<!-- Core Tech -->
-<span style="background: rgba(123,31,162,0.08); backdrop-filter: blur(4px); padding: 0.5rem 1rem; border-radius: 12px; border: 1px solid rgba(255,255,255,0.1);">
-  <img src="https://skillicons.dev/icons?i=react" width="20"/> React
-</span>
-<span style="background: rgba(123,31,162,0.08); backdrop-filter: blur(4px); padding: 0.5rem 1rem; border-radius: 12px; border: 1px solid rgba(255,255,255,0.1);">
-  <img src="https://skillicons.dev/icons?i=ts" width="20"/> TypeScript
-</span>
-<span style="background: rgba(123,31,162,0.08); backdrop-filter: blur(4px); padding: 0.5rem 1rem; border-radius: 12px; border: 1px solid rgba(255,255,255,0.1);">
-  <img src="https://skillicons.dev/icons?i=nextjs" width="20"/> Next.js
-</span>
-<span style="background: rgba(123,31,162,0.08); backdrop-filter: blur(4px); padding: 0.5rem 1rem; border-radius: 12px; border: 1px solid rgba(255,255,255,0.1);">
-  <img src="https://skillicons.dev/icons?i=remix" width="20"/> Remix.run
-</span>
-
-<!-- Backend -->
-<span style="background: rgba(123,31,162,0.08); backdrop-filter: blur(4px); padding: 0.5rem 1rem; border-radius: 12px; border: 1px solid rgba(255,255,255,0.1);">
-  <img src="https://skillicons.dev/icons?i=nodejs" width="20"/> Node.js
-</span>
-<span style="background: rgba(123,31,162,0.08); backdrop-filter: blur(4px); padding: 0.5rem 1rem; border-radius: 12px; border: 1px solid rgba(255,255,255,0.1);">
-  <img src="https://skillicons.dev/icons?i=express" width="20"/> Express.js
-</span>
-
-<!-- Database -->
-<span style="background: rgba(123,31,162,0.08); backdrop-filter: blur(4px); padding: 0.5rem 1rem; border-radius: 12px; border: 1px solid rgba(255,255,255,0.1);">
-  <img src="https://skillicons.dev/icons?i=mongodb" width="20"/> MongoDB
-</span>
-<span style="background: rgba(123,31,162,0.08); backdrop-filter: blur(4px); padding: 0.5rem 1rem; border-radius: 12px; border: 1px solid rgba(255,255,255,0.1);">
-  <img src="https://skillicons.dev/icons?i=prisma" width="20"/> Prisma
-</span>
-<span style="background: rgba(123,31,162,0.08); backdrop-filter: blur(4px); padding: 0.5rem 1rem; border-radius: 12px; border: 1px solid rgba(255,255,255,0.1);">
-  <img src="https://skillicons.dev/icons?i=mongoose" width="20"/> Mongoose
-</span>
-
-<!-- Tools & Extras -->
-<span style="background: rgba(123,31,162,0.08); backdrop-filter: blur(4px); padding: 0.5rem 1rem; border-radius: 12px; border: 1px solid rgba(255,255,255,0.1);">
-  <img src="https://skillicons.dev/icons?i=redux" width="20"/> Redux
-</span>
-<span style="background: rgba(123,31,162,0.08); backdrop-filter: blur(4px); padding: 0.5rem 1rem; border-radius: 12px; border: 1px solid rgba(255,255,255,0.1);">
-  <img src="https://skillicons.dev/icons?i=js" width="20"/> JavaScript
-</span>
-<span style="background: rgba(123,31,162,0.08); backdrop-filter: blur(4px); padding: 0.5rem 1rem; border-radius: 12px; border: 1px solid rgba(255,255,255,0.1);">
-  <img src="https://skillicons.dev/icons?i=python" width="20"/> Python (Learning)
-</span>
-
-</div>
 
 ---
 
@@ -78,7 +70,14 @@
   <a href="https://atiqurrahman-portfolio.web.app/">
     <img src="https://img.shields.io/badge/Portfolio-7B1FA2?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
+  <a href="https://wa.me/8801XXXXXXXXX">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+  <a href="https://facebook.com/sayedatiqurrahman">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
 </p>
+
 
 ---
 
@@ -88,9 +87,13 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sayedatiqurrahman&theme=transparent" height="150" />
 </div>
 
-<div align="center" style="background: rgba(123, 31, 162, 0.1); backdrop-filter: blur(6px); padding: 1rem; border-radius: 15px; border: 1px solid rgba(255,255,255,0.1); margin: 1rem auto; max-width: 800px;">
+
+### 🏆 GitHub Trophies
+
+<div align="center" style="background: rgba(123, 31, 162, 0.15); backdrop-filter: blur(8px); padding: 1.5rem; border-radius: 20px; border: 1px solid rgba(255,255,255,0.2); margin: 2rem auto; max-width: 800px;">
   <img src="https://github-profile-trophy.vercel.app/?username=sayedatiqurrahman&theme=onedark&no-frame=true&margin-w=15&row=2&column=4" />
 </div>
+
 
 ---
 
