@@ -58,22 +58,22 @@
 
 ### 🔗 Connect with Me
 <p align="center">
-  <a href="https://github.com/sayedatiqurrahman">
+  <a href="https://github.com/sayedatiqurrahman" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/satiqurrahman/">
+  <a href="https://www.linkedin.com/in/satiqurrahman/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://medium.com/@satiqurrahman">
+  <a href="https://medium.com/@satiqurrahman" target="_blank">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
   </a>
-  <a href="https://atiqurrahman-portfolio.web.app/">
+  <a href="https://atiqurrahman-portfolio.web.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-7B1FA2?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
-  <a href="https://wa.me/8801XXXXXXXXX">
+  <a href="https://wa.me/8801625625032" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
-  <a href="https://facebook.com/sayedatiqurrahman">
+  <a href="https://facebook.com/sayedatiqurrahman" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
 </p>
