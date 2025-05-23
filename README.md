@@ -8,7 +8,7 @@
 </div>
 
 <div align="center" style="background: rgba(123, 31, 162, 0.08); backdrop-filter: blur(6px); padding: 1.2rem; border-radius: 15px; margin: 1rem auto; max-width: 800px; font-size: 16px;">
-  Passionate about building modern, scalable, and beautiful web apps. Currently diving deeper into TypeScript, Remix, and advanced patterns in React.
+  A results-driven full-stack developer with hands-on experience in modern web technologies including React, TypeScript, Remix, Node.js, Prisma, and PostgreSQL. Passionate about crafting scalable, secure, and elegant applications with clean architecture and a focus on user experience.
 </div>
 
 ---
@@ -90,9 +90,10 @@
 
 ### 🏆 GitHub Trophies
 
-<div align="center" style="background: rgba(123, 31, 162, 0.15); backdrop-filter: blur(8px); padding: 1.5rem; border-radius: 20px; border: 1px solid rgba(255,255,255,0.2); margin: 2rem auto; max-width: 800px;">
-  <img src="https://github-profile-trophy.vercel.app/?username=sayedatiqurrahman&theme=onedark&no-frame=true&margin-w=15&row=2&column=4" />
+<div align="center" style="background: rgba(25, 118, 210, 0.15); backdrop-filter: blur(10px); padding: 2rem; border-radius: 20px; border: 1px solid rgba(255,255,255,0.15); margin: 3rem auto; max-width: 800px;">
+  <img src="https://github-profile-trophy.vercel.app/?username=sayedatiqurrahman&theme=blueberry&no-frame=true&margin-w=25&margin-h=25&row=2&column=4" />
 </div>
+
 
 
 ---
