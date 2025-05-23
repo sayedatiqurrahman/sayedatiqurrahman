@@ -93,6 +93,15 @@
 
 ---
 
+<div align="center" style="background: rgba(25, 118, 210, 0.15); backdrop-filter: blur(10px); padding: 2rem; border-radius: 20px; border: 1px solid rgba(255,255,255,0.15); margin: 2rem auto 3rem; max-width: 800px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayedatiqurrahman&layout=compact&theme=dark" alt="GitHub Trophies" />
+</div>
+
+
+
+
+--
+
 <div style="background: rgba(123, 31, 162, 0.08); backdrop-filter: blur(6px); padding: 1.5rem 2rem; border-radius: 15px; margin: 2rem auto 3rem; max-width: 800px; font-size: 16px;">
   <h3>🔍 Current Focus & Contributions</h3>
   <ul style="list-style: none; padding: 0; line-height: 1.8; font-size: 1rem;">
