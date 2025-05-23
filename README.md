@@ -74,14 +74,20 @@
 ---
 
 <div align="center" style="display: flex; gap: 1.5rem; justify-content: center; flex-wrap: wrap; margin: 1rem auto;">
+
+  <!-- GitHub Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sayedatiqurrahman&theme=dark" alt="GitHub Streak" height="150" />
+  
+  <div align="center" style="display: flex; gap: 1.5rem; flex-wrap: wrap; justify-content: center; margin: 1rem auto 2rem;">
   <!-- Most Used Languages Card -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayedatiqurrahman&langs_count=8&layout=compact&theme=dark" alt="Most Used Languages" height="150" />
   
   <!-- Total Contributions Card -->
   <img src="https://github-readme-stats.vercel.app/api?username=sayedatiqurrahman&show_icons=true&count_private=true&include_all_commits=true&theme=dark" alt="Total Contributions" height="150" />
+</div>
+
   
-  <!-- GitHub Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sayedatiqurrahman&theme=dark" alt="GitHub Streak" height="150" />
+
 </div>
 
 
