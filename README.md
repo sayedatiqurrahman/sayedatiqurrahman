@@ -147,6 +147,3 @@
 
 
 
-<br/>
-
-<a href="https://partner.pcloud.com/r/151802" title="pCloud Premium" target="_blank"><img src="https://partner.pcloud.com/media/banners/personal/personal00172890.png" alt="pCloud Premium"/></a>
