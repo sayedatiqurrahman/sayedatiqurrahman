@@ -144,3 +144,9 @@
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
 </p>
+
+
+
+Lifetime cloud storage + full API access, all with a single payment:
+[url=https://partner.pcloud.com/r/151802][img]https://partner.pcloud.com/media/banners/personal/personal00172890.png[/img][/url]
+
