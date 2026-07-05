@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/63aec3b8-569c-4a0e-9668-8279e3d03170)
+<img width="1000" height="250" alt="COVER-PAGE" src="https://github.com/user-attachments/assets/f863135c-04d4-48d4-aae5-520c719bb589" />
 
 
 <!-- Profile Hero Section -->
