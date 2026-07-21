@@ -60,19 +60,6 @@
 
 ### 📊 GitHub Stats & Streak
 
-<div align="center" style="display: flex; gap: 1.5rem; flex-wrap: wrap; justify-content: center; margin: 1rem auto 2rem;">
-  <img src="https://github-readme-stats.vercel.app/api?username=sayedatiqurrahman&show_icons=true&theme=transparent" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sayedatiqurrahman&theme=transparent" height="150" alt="GitHub Streak" />
-</div>
-
-<!-- Optional Contribution Graph (using a community project) -->
-<div align="center" style="margin-bottom: 2rem;">
-  <img src="https://activity-graph.herokuapp.com/graph?username=sayedatiqurrahman&theme=react-dark&hide_border=true" alt="GitHub Contribution Graph" />
-</div>
-
-
----
-
 <div align="center" style="display: flex; gap: 1.5rem; justify-content: center; flex-wrap: wrap; margin: 1rem auto;">
 
   <!-- GitHub Streak Stats -->
