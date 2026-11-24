@@ -95,7 +95,6 @@
   <h3>🔍 Current Focus & Contributions</h3>
   <ul style="list-style: none; padding: 0; line-height: 1.8; font-size: 1rem;">
     <li>🧪 <strong>Now Exploring:</strong> Scalable Testing Strategies, DevOps Workflows</li>
-    <li>🧳 <strong>Client Projects:</strong> Delivered secure, scalable apps for businesses and organizations like <a href="https://bconsbd.com" target="_blank" style="color:#7B1FA2;">BConsBD</a></li>
     <li>📦 <strong>Open Source:</strong> Actively contributing to internal tooling, utility libraries, and cloud storage solutions</li>
     <li>🚀 <strong>Featured Work:</strong> Built production-ready apps using <strong>Next.js, Remix, Prisma, PostgreSQL</strong>, and <strong>Telegram MTProto</strong></li>
     <li>📝 <strong>Tech Blog:</strong> Documenting learnings and insights on performance, architecture, and code patterns (<em>RSS feed coming soon</em>)</li>
