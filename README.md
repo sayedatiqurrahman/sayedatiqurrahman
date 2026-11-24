@@ -3,7 +3,7 @@
 
 <!-- Profile Hero Section -->
 <div align="center" style="background: rgba(123, 31, 162, 0.15); backdrop-filter: blur(8px); padding: 2rem; border-radius: 20px; border: 1px solid rgba(255,255,255,0.2); margin: 2rem auto; max-width: 800px;">
-  <h1>Hi there 👋, I'm <span style="color:#7B1FA2;">Sayed Atiqur Rahman</span></h1>
+  <h1>Hi there 👋, this is <span style="color:#7B1FA2;">Sayed Atiqur Rahman</span></h1>
   <h3>MERN Stack Developer || Full Stack Engineer</h3>
 </div>
 
